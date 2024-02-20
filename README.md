@@ -10,6 +10,11 @@ Please download our dataset at https://drive.google.com/drive/folders/13oBWsRzKo
 The model weights trained on BUV and WHBUS can be found at https://drive.google.com/drive/folders/1vD0UrFtOAcwQJ9puO5Lcw6fyNdaNohnE?usp=sharing.
 
 ## Environment
+python==3.9.7  
+torch==1.12.1+cu113  
+torchvision==0.13.1+cu113  
+timm==0.3.2  
+Please see 'requirements.txt' for details.
 
 ## Test
 1. Test on BUV dataset
